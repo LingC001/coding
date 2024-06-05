@@ -1,0 +1,2 @@
+# coding
+Programming skills exercises
